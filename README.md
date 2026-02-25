@@ -1,5 +1,5 @@
 #  About Me:
-Hello, my name is Maxwell Wade,<br>I’m a Computer Science graduate from UAB with a passion for building <br>scalable applications and deriving insights from data.<br><br>Currently, I'm building a Full-Stack CRM Platform and refining my portfolio.<br>I am also currently learning more about advanced ETL processes, data automation, <br>and data visualization. <br><br>I am seeking opportunities in Software Engineering, Data Science, or Data Engineering. I
+Hello, my name is Maxwell Wade,<br>I’m a Computer Science graduate from UAB with a passion for building <br>scalable applications and deriving insights from data.<br><br>Currently, I'm building a Full-Stack CRM Platform and refining my portfolio.<br>I am also currently learning more about advanced ETL processes, data automation, <br>and data visualization. <br><br>I am seeking opportunities in Software Engineering, Data Science, or Data Engineering.
 
 
 ##  Socials:
